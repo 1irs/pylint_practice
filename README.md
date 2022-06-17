@@ -89,7 +89,7 @@ def quickSort(arr):
 
 Результат работы будет следующим:
 
-```json
+```
 ************* Module quick_sort
 quick_sort.py:22:0: C0304: Final newline missing (missing-final-newline)
 quick_sort.py:1:0: C0114: Missing module docstring (missing-module-docstring)
@@ -132,7 +132,7 @@ aaa = 24
 
 Pylint сгенерирует предупреждение:
 
-```json
+```
 message.py:1:0: C0103: Constant name "aaa" doesn't conform to UPPER_CASE naming style (invalid-name)
 ```
 
